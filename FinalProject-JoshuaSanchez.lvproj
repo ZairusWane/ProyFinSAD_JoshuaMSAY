@@ -15,6 +15,7 @@
 			<Item Name="User Interfase.lvlib" Type="Library" URL="../Libraries/User Interfase/User Interfase.lvlib"/>
 		</Item>
 		<Item Name="Support" Type="Folder">
+			<Item Name="Configuration for Acquisitions.lvlib" Type="Library" URL="../Libraries/Shared/Configuration for Acquisitions.lvlib"/>
 			<Item Name="Converter_u32ToBoolArray.vi" Type="VI" URL="../Libraries/Support/Converter_u32ToBoolArray.vi"/>
 			<Item Name="DAQAnalog_Examples.vi" Type="VI" URL="../Libraries/Support/DAQAnalog_Examples.vi"/>
 			<Item Name="DAQDigital_Examples.vi" Type="VI" URL="../Libraries/Support/DAQDigital_Examples.vi"/>
