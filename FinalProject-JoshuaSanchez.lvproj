@@ -22,6 +22,7 @@
 			<Item Name="DAQAnalog_Examples.vi" Type="VI" URL="../Libraries/Support/DAQAnalog_Examples.vi"/>
 			<Item Name="DAQDigital_Examples.vi" Type="VI" URL="../Libraries/Support/DAQDigital_Examples.vi"/>
 			<Item Name="Logging_TDMSTest.vi" Type="VI" URL="../Libraries/Support/Logging_TDMSTest.vi"/>
+			<Item Name="TDMSReader.vi" Type="VI" URL="../Libraries/Support/TDMSReader.vi"/>
 		</Item>
 		<Item Name="Testers" Type="Folder">
 			<Item Name="Test Acquisition API.vi" Type="VI" URL="../Libraries/Acquisition/Test Acquisition API.vi"/>
@@ -29,7 +30,6 @@
 			<Item Name="Test Settings API.vi" Type="VI" URL="../Libraries/Settings/Test Settings API.vi"/>
 			<Item Name="Test User Interfase API.vi" Type="VI" URL="../Libraries/User Interfase/Test User Interfase API.vi"/>
 		</Item>
-		<Item Name="TDMSReader.vi" Type="VI" URL="../Libraries/Support/TDMSReader.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="AddNamedRendezvousPrefix.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/rendezvs.llb/AddNamedRendezvousPrefix.vi"/>
