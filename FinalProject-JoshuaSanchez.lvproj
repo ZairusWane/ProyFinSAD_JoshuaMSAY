@@ -21,7 +21,8 @@
 			<Item Name="Converter_u32ToBoolArray.vi" Type="VI" URL="../Libraries/Support/Converter_u32ToBoolArray.vi"/>
 			<Item Name="DAQAnalog_Examples.vi" Type="VI" URL="../Libraries/Support/DAQAnalog_Examples.vi"/>
 			<Item Name="DAQDigital_Examples.vi" Type="VI" URL="../Libraries/Support/DAQDigital_Examples.vi"/>
-			<Item Name="Logging_TDMSTest.vi" Type="VI" URL="../Libraries/Support/Logging_TDMSTest.vi"/>
+			<Item Name="Example_TDSM.vi" Type="VI" URL="../Libraries/Support/Example_TDSM.vi"/>
+			<Item Name="Logging_TDMSPath.vi" Type="VI" URL="../Libraries/Support/Logging_TDMSPath.vi"/>
 			<Item Name="TDMSReader.vi" Type="VI" URL="../Libraries/Support/TDMSReader.vi"/>
 		</Item>
 		<Item Name="Testers" Type="Folder">
