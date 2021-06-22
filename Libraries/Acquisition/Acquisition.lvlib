@@ -30,6 +30,9 @@
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
 				<Item Name="Status Updated Argument--cluster.ctl" Type="VI" URL="../Status Updated Argument--cluster.ctl"/>
 				<Item Name="Error Reported Argument--cluster.ctl" Type="VI" URL="../Error Reported Argument--cluster.ctl"/>
+				<Item Name="Analog Data Has Been Acquired Argument--cluster.ctl" Type="VI" URL="../Analog Data Has Been Acquired Argument--cluster.ctl"/>
+				<Item Name="Digital Data Has Been Acquired Argument--cluster.ctl" Type="VI" URL="../Digital Data Has Been Acquired Argument--cluster.ctl"/>
+				<Item Name="Analog - Digital Has Been Set Argument--cluster.ctl" Type="VI" URL="../Analog - Digital Has Been Set Argument--cluster.ctl"/>
 			</Item>
 		</Item>
 		<Item Name="Requests" Type="Folder">
@@ -59,6 +62,9 @@
 		<Item Name="Error Reported.vi" Type="VI" URL="../Error Reported.vi"/>
 		<Item Name="Module Did Stop.vi" Type="VI" URL="../Module Did Stop.vi"/>
 		<Item Name="Update Module Execution Status.vi" Type="VI" URL="../Update Module Execution Status.vi"/>
+		<Item Name="Analog Data Has Been Acquired.vi" Type="VI" URL="../Analog Data Has Been Acquired.vi"/>
+		<Item Name="Digital Data Has Been Acquired.vi" Type="VI" URL="../Digital Data Has Been Acquired.vi"/>
+		<Item Name="Analog - Digital Has Been Set.vi" Type="VI" URL="../Analog - Digital Has Been Set.vi"/>
 	</Item>
 	<Item Name="Requests" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
